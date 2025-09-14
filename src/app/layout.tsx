@@ -5,7 +5,7 @@ import Footer from "@/components/footer";
 
 export const metadata = {
   title: "Pokedex",
-  description: "Minha Pokedex em Next.js",
+  description: "Pokedex By Johnatha",
 };
 
 export default function RootLayout({
